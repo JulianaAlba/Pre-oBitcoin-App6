@@ -1,8 +1,29 @@
-# flutter_app_api_bitcoin
 
-A new Flutter project.
+## Aplicativo que retorna o Preço atual da Criptomoeda Bitcoin
+#### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App6
 
-## Getting Started
+
+
+### Conceitos | Implementações:
+- Widgets e Material design
+- Estrutura de um App
+- Colunas e linhas
+- Formatação de textos
+- Botões
+- Espaçamentos
+- Alinhamentos
+- Imagens
+- Layout base com Scaffold
+- Stateful
+- API as HTTP
+- Função async
+
+
+
+<img src = 'imagens/bitcoin.gif' width='350'/> 
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
